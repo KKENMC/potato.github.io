@@ -26,5 +26,5 @@ def fetch_and_extract_messages(url:str):
 
   
 def potatoget():
-    url = 'https://www.potatocraft.top/PotatoRiskControlSystem/message.html'  
+    url = 'https://kkenmc.github.io/potato.github.io/'  
     return fetch_and_extract_messages(url)
